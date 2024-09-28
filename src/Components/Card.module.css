@@ -1,0 +1,22 @@
+.card{
+    width: 80%;
+    min-height: 120px;
+    border: 2px solid rgb(0, 0, 99);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items:center ;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.quote{
+    color: darkblue;
+    font-weight: 500;
+    font-size: larger;
+}
+.author{
+    font-weight: 600;
+    color: black;
+}
